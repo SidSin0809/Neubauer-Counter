@@ -49,4 +49,4 @@ python count_cells_frame.py --dilution 2.0 --frame-vol 1e-4
 | `--dilution 2.0`                          | Sample dilution factor (×) | *None*       |
 | `--frame-vol 1e-4`                        | Volume of one frame (mL)   | *None*       |
 
-
+[![DOI](https://zenodo.org/badge/1013624554.svg)](https://doi.org/10.5281/zenodo.17038483)
